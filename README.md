@@ -1,11 +1,26 @@
 # cs50-solutions
-My solutions to CS50's project assignemnts
 
-## Week 0: Scratch
+## About CS50x
+
+CS50x is Harvard's online version of its introductory course on computer science
+([Course Website](https://cs50.harvard.edu/x/2020/)). The repository contains my
+solutions to the course assignments. Some parts of the programs are a
+boilerplate code provided by the course.
 
 ## Week 1: C
+### Problem Set 1
+ 
++ [Credit](./problems_sets/problem_set_1/credit.c)
+    
+    Program requests a number from user and determines whether it is a valid
+    ceridt card number.
 
 ## Week 2: Arrays
+### Problem Set 2
+
++ [Readability](./problem_sets/problem_set_2/readability/readability.c)
+
++ [Substitution](./problem_sets/problem_set_2/substitution/substitution.c)
 
 ## Week 3: Algorithms
 
