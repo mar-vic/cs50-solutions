@@ -10,7 +10,7 @@ boilerplate code provided by the course.
 ## Week 1: C
 ### Problem Set 1
  
-+ [Credit](./problems_sets/problem_set_1/credit.c)
++ [Credit](problem_sets/problem_set_1/credit.c)
     
     Program requests a number from user and determines whether it is a valid
     ceridt card number.
