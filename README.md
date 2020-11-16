@@ -47,7 +47,7 @@ provided by the course.
 
 + [Recover](problem_sets/problem_set_4/recover/recover/recover.c)
 
-    Implement a program that recovers JPEGs from a forensic image
+    Implements a program that recovers JPEGs from a forensic image
 
 ## Week 5: Data Structures
 ### Problem Set 5
@@ -71,7 +71,7 @@ provided by the course.
 
 + [DNA](problem_sets/problem_set_6/dna/dna.py)
 
-    Implement a program that identifies a person based on their DNA
+    Implements a program that identifies a person based on their DNA
 
 ## Week 7: SQL
 ### Problem Set 7
@@ -82,8 +82,8 @@ provided by the course.
     
 #### Houses
 
-    Implement a program to import student data into a database, and then produce
-    a class roster
+Implement a program to import student data into a database, and then produce
+a class roster
 
 + [Import](problem_sets/problem_set_7/houses/import.py)
 
