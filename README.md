@@ -1,4 +1,4 @@
-# cs50-solutions
+# CS50 Solutions
 
 ## About CS50x
 
